@@ -1,0 +1,11 @@
+@import-normalize;
+
+.container-form {
+    border: solid 1px white;
+    border-radius: 10px;
+}
+
+.add-contact-btn {
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
